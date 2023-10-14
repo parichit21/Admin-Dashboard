@@ -1,4 +1,4 @@
-# About Repository (Simple Explanation)
+# About Repository
 
 This repo is a source code for an  Dashboard web-app, built with react, from a  youtube tutorial ([Build and Deploy a React Admin Dashboard App With Theming, Tables,Charts, Calendar, Kanban and More](https://youtu.be/jx5hdo50a2M?si=4lqQohNZKvC-TRsm)).
 It is full responsive and also has theme mode/color and this web-app contains multiple charts an apps
